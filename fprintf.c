@@ -7,8 +7,8 @@ int main() {
 	FILE *pFile = NULL;
 
 	// Deklarujemy zmienne
-	const char name[] = "Fedorczak";
-	const char firstname[] = "Milosz";
+	const char name[] = "Kowalski";
+	const char firstname[] = "Jan";
 	const int age = 19;
 
 	// INFO: fopen.c
